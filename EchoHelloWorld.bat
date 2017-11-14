@@ -2,6 +2,4 @@
 
 CD\
 
-ECHO "Hello Cruel World"
-
-PAUSE
+echo "Hello Cruel World"
