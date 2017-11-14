@@ -2,4 +2,7 @@
 
 CD\
 
-echo "Hello Cruel World"
+ECHO "Hello Cruel World"
+
+PAUSE
+::See if this git works
